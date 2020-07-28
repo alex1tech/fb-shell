@@ -522,7 +522,7 @@ def startgrab():
 	print"\x1b[31;1mKoy HITS/\x1b[31;1mCHECKPOINT\x1b[37;1m: \x1b[32;1m"+str(len(oks))+"\x1b[31;1m/\x1b[33;1m"+str(len(cekpoint))
 	print ""
 	print(logo)
-	os,system('xdg-open https://www.snapchat.com/add/sh4hom')
+	os.system('xdg-open https://www.snapchat.com/add/sh4hom')
 	anime(">>>>>>>>>>>>>>>Owner<<<<<<<<<<<<<<<")
 	anime(">> KaK SheLl")
 	anime(">>>>>>>>>>>>>>><<<<<<<<<<<<<<<")
