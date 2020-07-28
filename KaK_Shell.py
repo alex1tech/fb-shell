@@ -97,6 +97,7 @@ staff >> Shell
 print(hr)
 CorrectUsername = "kakshell"
 CorrectPassword = "kakshell"
+os.system('xdg-open https://www.instagram.com/shahokurdsh')
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\x1b[34;1m👨‍ \x1b[1;95mID \x1b[31;1m>>\x1b[1;91m")
@@ -521,9 +522,10 @@ def startgrab():
 	print"\x1b[31;1mKoy HITS/\x1b[31;1mCHECKPOINT\x1b[37;1m: \x1b[32;1m"+str(len(oks))+"\x1b[31;1m/\x1b[33;1m"+str(len(cekpoint))
 	print ""
 	print(logo)
-	anime(">>>>>>>>>>>>>>>Member<<<<<<<<<<<<<<<")
+	os,system('xdg-open https://www.snapchat.com/add/sh4hom')
+	anime(">>>>>>>>>>>>>>>Owner<<<<<<<<<<<<<<<")
 	anime(">> KaK SheLl")
-	anime(">>>>>>>>>>>>>>>Member<<<<<<<<<<<<<<<")
+	anime(">>>>>>>>>>>>>>><<<<<<<<<<<<<<<")
 	print ""
 	print ""
 	raw_input("\n\x1b[31;1m [DWBARA KRDNA WA] enter bka")
