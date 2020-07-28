@@ -523,16 +523,6 @@ def startgrab():
 	print(logo)
 	anime(">>>>>>>>>>>>>>>Member<<<<<<<<<<<<<<<")
 	anime(">> KaK SheLl")
-	anime(">> 7aMa.SoftWare")
-	anime(">>『SL』 QALA ")
-	anime(">>『SL』 MARMILKA ")
-	anime(">>『SL』 DEVIL ")
-	anime(">>『SL』 XAMA ")
-	anime(">>『SL』 MARYA ")
-	anime(">>『SL』 7ASHISH")
-	anime(">>『SL』 SHERA ")
-	anime(">>『SL』7aje SHELL ")
-	anime(">>『SL』 BLOOD ")
 	anime(">>>>>>>>>>>>>>>Member<<<<<<<<<<<<<<<")
 	print ""
 	print ""
